@@ -38,3 +38,31 @@ The course is well rounded in terms of concepts. It helps us understand the fund
 ### Office hours:
 
   - TBD
+
+# Course Work
+## Grading
+Grading will be based on weekly quizzes, homework assignments and a final project.
+
+There will be five assignments in all. They will also be due on the same date.
+
+## Books
+The course will not follow a specific book, but will draw from a number of sources. We list relevant books at the end of this page. We will also put up links to relevant reading material for each class. Students are expected to familiarize themselves with the material before the class. The readings will sometimes be arcane and difficult to understand; if so, do not worry, we will present simpler explanations in class.
+
+## Discussion board: Piazza
+We will use Piazza for discussions. [Here is the link.](https://piazza.com/) Please sign up.
+
+You can also find a nice catalog of models that are current in the literature here. We expect that you will be in a position to interpret, if not fully understand many of the architectures on the wiki and the catalog by the end of the course.
+
+## Kaggle
+[Kaggle](https://www.kaggle.com/) is a popular data science platform where visitors compete to produce the best model for learning or analyzing a data set.
+
+For assignments you will be submitting your evaluation results to a Kaggle leaderboard.
+
+## Academic Integrity
+You are expected to comply with the [University Policy on Academic Integrity and Plagiarism.](http://www.cmu.edu/policies/documents/Cheating.html)
+  - You are allowed to talk with / work with other students on homework assignments
+  - You can share ideas but not code, you should submit your own code
+Your course instructor reserves the right to determine an appropriate penalty based on the violation of academic dishonesty that occurs. Violations of the university policy can result in severe penalties including failing this course and possible expulsion from Carnegie Mellon University. If you have any questions about this policy and any work you are doing in the course, please feel free to contact your instructor for help.
+
+### [Some ideas for projects](http://deeplearning.cs.cmu.edu/slides/ProjectIdeas.pdf)
+
