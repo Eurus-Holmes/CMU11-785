@@ -66,3 +66,27 @@ Your course instructor reserves the right to determine an appropriate penalty ba
 
 ### [Some ideas for projects](http://deeplearning.cs.cmu.edu/slides/ProjectIdeas.pdf)
 
+# Piazza TA Schedule
+Monday	Dhruv, Soham, Shubham, David
+
+Tuesday	Nihar, Soham, Ryan, Ipsita
+
+Wednesday	Dhruv, Nebiyou, Ahmed, Raphael
+
+Thursday	Madhura, Nebiyou, Shaden, Jiwaei, Anushree
+
+Friday	Madhura, Omar, Jiwaei, Nihar
+
+Saturday	Omar, Ipsita, Shubham, Raphael, Anushree
+
+Sunday	Ryan, David, Ahmed, Shaden
+
+# Documentation and Tools
+## Textbooks
+  - [Deep Learning --- By Ian Goodfellow, Yoshua Bengio, Aaron Courville --- Online book, 2017](http://deeplearning.cs.cmu.edu/data/DeepLearningBook.zip)
+  - [Neural Networks and Deep Learning --- By Michael Nielsen --- Online book, 2016](http://neuralnetworksanddeeplearning.com/)
+  - [Deep Learning with Python --- By J. Brownlee](https://machinelearningmastery.com/deep-learning-with-python/)
+  - [Deep Learning Step by Step with Python: A Very Gentle Introduction to Deep Neural Networks for Practical Data Science --- By N. D. Lewis](https://www.amazon.com/Deep-Learning-Step-Python-Introduction/dp/1535410264)
+  - [Parallel Distributed Processing --- By Rumelhart and McClelland --- Out of print, 1986](https://mitpress.mit.edu/books/parallel-distributed-processing)
+
+
