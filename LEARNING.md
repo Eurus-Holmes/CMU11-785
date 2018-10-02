@@ -1,6 +1,8 @@
 # Learning To Do List
 
-- [ ] 1. Introduction
+### Slides
+
+- [x] 1. Introduction
 - [ ] 2. Deep Learning
 - [ ] 3. Learning the network: Part 1
 - [ ] 4. Learning the network: Backprop
