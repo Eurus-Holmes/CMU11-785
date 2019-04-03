@@ -1,0 +1,97 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Deep learning Theory}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}MLP: Intuitive Understanding}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}MLP: Theoretical Proof}{6}{subsection.1.2}
+\contentsline {section}{\numberline {2}Neural Networks: Part 1}{14}{section.2}
+\contentsline {subsection}{\numberline {2.1}Basic Concepts And Theoretical Foundations}{14}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Gradient Descent Theory and Objective Function}{21}{subsection.2.2}
+\contentsline {section}{\numberline {3}Neural Networks: Part 2}{24}{section.3}
+\contentsline {subsection}{\numberline {3.1}Backward Propagation Theory And Convergence}{24}{subsection.3.1}
+\contentsline {section}{\numberline {4}Neural Network Training}{28}{section.4}
+\contentsline {subsection}{\numberline {4.1}Concept combing}{29}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Three ways to reduce the gradient}{30}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Several methods of optimizing the algorithm:}{32}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Generalization strategy}{33}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Training skills}{35}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Divergence Evaluation Function}{35}{subsubsection.4.5.1}
+\contentsline {subsubsection}{\numberline {4.5.2}Batch Normalization}{36}{subsubsection.4.5.2}
+\contentsline {subsubsection}{\numberline {4.5.3}Other Tips}{37}{subsubsection.4.5.3}
+\contentsline {section}{\numberline {5}Convolutional Nerual Networks (CNN)}{38}{section.5}
+\contentsline {subsection}{\numberline {5.1}Different layers in CNN}{38}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Convolution Layer}{38}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Pooling Layer}{39}{subsubsection.5.1.2}
+\contentsline {subsection}{\numberline {5.2}Multi-class learning}{39}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Derivation}{39}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Notes}{39}{subsubsection.5.2.2}
+\contentsline {subsection}{\numberline {5.3}Computation Improvment}{40}{subsection.5.3}
+\contentsline {section}{\numberline {6}CNN Case studies}{40}{section.6}
+\contentsline {subsection}{\numberline {6.1}Classic Networks}{40}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}LeNet-5}{40}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}AlexNet}{40}{subsubsection.6.1.2}
+\contentsline {subsubsection}{\numberline {6.1.3}VGG-16}{40}{subsubsection.6.1.3}
+\contentsline {subsection}{\numberline {6.2}ResNet}{41}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Introduction}{41}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Intuition}{41}{subsubsection.6.2.2}
+\contentsline {subsection}{\numberline {6.3}1*1 convolution}{41}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Inception Network}{41}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Pratical Advices}{41}{subsection.6.5}
+\contentsline {subsubsection}{\numberline {6.5.1}Data Augmentation}{41}{subsubsection.6.5.1}
+\contentsline {subsubsection}{\numberline {6.5.2}Deep Learning for Computer Vision}{42}{subsubsection.6.5.2}
+\contentsline {section}{\numberline {7}Detection Algorithm}{42}{section.7}
+\contentsline {subsection}{\numberline {7.1}Object Location}{42}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Convolutional Implementation of Sliding Windows}{42}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}YOLO Algorithm}{42}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Intersection Over Union}{43}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}Non-max Suppression}{43}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6}Anchor Boxes}{43}{subsection.7.6}
+\contentsline {section}{\numberline {8}Special Applications}{43}{section.8}
+\contentsline {subsection}{\numberline {8.1}Face Recognition}{43}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8.1.1}Face verification}{43}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.2}Nerual Network For Degree Difference - Siamese Network}{43}{subsubsection.8.1.2}
+\contentsline {subsubsection}{\numberline {8.1.3}Triplet Loss}{43}{subsubsection.8.1.3}
+\contentsline {subsubsection}{\numberline {8.1.4}Binary Classification}{44}{subsubsection.8.1.4}
+\contentsline {subsection}{\numberline {8.2}Neural Style Transfer}{44}{subsection.8.2}
+\contentsline {section}{\numberline {9}Recurrent Neural Networks (RNN)}{44}{section.9}
+\contentsline {subsection}{\numberline {9.1}Practical Example}{45}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Image Captioning}{45}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}LSTM}{46}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Variants on LSTMs}{50}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Difference between RNN and LSTM}{51}{subsection.9.5}
+\contentsline {subsection}{\numberline {9.6}Bidirectional RNN}{52}{subsection.9.6}
+\contentsline {subsection}{\numberline {9.7}Summary}{52}{subsection.9.7}
+\contentsline {section}{\numberline {10}Attention Models}{52}{section.10}
+\contentsline {subsection}{\numberline {10.1}Soft Attention for Captioning}{52}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Soft vs Hard Attention}{53}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Recap}{54}{subsection.10.3}
+\contentsline {section}{\numberline {11}Generative Adversarial Nets (GAN)}{54}{section.11}
+\contentsline {subsection}{\numberline {11.1}Examples}{55}{subsection.11.1}
+\contentsline {section}{\numberline {12}Reinforcement Learning Basic Model}{56}{section.12}
+\contentsline {paragraph}{Definition}{56}{section*.9}
+\contentsline {paragraph}{Definition}{57}{section*.10}
+\contentsline {paragraph}{Definition}{57}{section*.11}
+\contentsline {paragraph}{Defintition}{57}{section*.12}
+\contentsline {subsection}{\numberline {12.1}Information State}{57}{subsection.12.1}
+\contentsline {paragraph}{Definition}{57}{section*.13}
+\contentsline {paragraph}{Proposition}{57}{section*.14}
+\contentsline {subparagraph}{Proof}{57}{section*.15}
+\contentsline {subsection}{\numberline {12.2}Observability}{57}{subsection.12.2}
+\contentsline {subsection}{\numberline {12.3}Components of RL agent}{58}{subsection.12.3}
+\contentsline {paragraph}{Definition}{58}{section*.16}
+\contentsline {paragraph}{Definition}{58}{section*.17}
+\contentsline {paragraph}{Definition}{58}{section*.18}
+\contentsline {subsection}{\numberline {12.4}Learning and Planning}{58}{subsection.12.4}
+\contentsline {section}{\numberline {13}Markov Decision Process}{58}{section.13}
+\contentsline {subsection}{\numberline {13.1}Introduction to MDP}{58}{subsection.13.1}
+\contentsline {paragraph}{Definition}{59}{section*.19}
+\contentsline {paragraph}{Definition}{59}{section*.20}
+\contentsline {paragraph}{Definition}{59}{section*.21}
+\contentsline {paragraph}{Definition}{59}{section*.22}
+\contentsline {subsection}{\numberline {13.2}Markov Decision Process}{59}{subsection.13.2}
+\contentsline {paragraph}{Definition}{60}{section*.23}
+\contentsline {paragraph}{Definition}{60}{section*.24}
+\contentsline {paragraph}{Definition}{61}{section*.25}
+\contentsline {paragraph}{Definition}{61}{section*.26}
+\contentsline {paragraph}{Definition}{62}{section*.27}
+\contentsline {paragraph}{Theorem}{63}{section*.29}
+\contentsline {paragraph}{Definition}{63}{section*.30}
+\contentsline {subsection}{\numberline {13.3}Infinite MDPs}{63}{subsection.13.3}
