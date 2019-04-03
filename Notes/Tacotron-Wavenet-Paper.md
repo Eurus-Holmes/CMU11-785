@@ -37,5 +37,6 @@
 # Reference
 
 > [***1. Expressive Speech Synthesis with Tacotron --- Google AI Blog***](https://ai.googleblog.com/2018/03/expressive-speech-synthesis-with.html)
-[***2. WaveNet: A Generative Model for Raw Audio --- DeepMind Blog***](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+
+> [***2. WaveNet: A Generative Model for Raw Audio --- DeepMind Blog***](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
